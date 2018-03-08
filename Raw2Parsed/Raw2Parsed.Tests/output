@@ -1,0 +1,68 @@
+{
+  "Preferred Stock classes": {},
+  "Series A Preferred Stock": {
+    "Shares Authorized": "72,826,280",
+    "Shares Issued and Outstanding": "72,826,280",
+    "Common Stock Equivalent": "72,826,280"
+  },
+  "Series B Preferred Stock": {
+    "Shares Authorized": "104,724,240",
+    "Shares Issued and Outstanding": "104,724,240",
+    "Common Stock Equivalent": "104,724,240"
+  },
+  "Series C Preferred Stock": {
+    "Shares Authorized": "104,105,712",
+    "Shares Issued and Outstanding": "104,105,712",
+    "Common Stock Equivalent": "104,105,712"
+  },
+  "Series C-1 Preferred Stock": {
+    "Shares Authorized": "34,969,110",
+    "Shares Issued and Outstanding": "34,969,105",
+    "Common Stock Equivalent": "34,969,105"
+  },
+  "Total Preferred Stock issued and outstanding": {
+    "Common Stock Equivalent": "316,625,337",
+    "Fully Diluted Shares": "316,625,337",
+    "Fully Diluted Ownership": "59.9918%"
+  },
+  "Common Stock classes": {},
+  "Common Stock": {
+    "Shares Authorized": "580,000,000",
+    "Shares Issued and Outstanding": "132,056,408",
+    "Common Stock Equivalent": "132,056,408"
+  },
+  "Total Common Stock issued and outstanding": {
+    "Common Stock Equivalent": "132,056,408",
+    "Fully Diluted Shares": "132,056,408",
+    "Fully Diluted Ownership": "25.0211%"
+  },
+  "Common Stock warrants": {},
+  "SVB Mezzanine Loan and Security Agreement": {
+    "Common Stock Equivalent": "801,513"
+  },
+  "Total Common Stock Warrants issued and outstanding": {
+    "Common Stock Equivalent": "801,513",
+    "Fully Diluted Shares": "801,513",
+    "Fully Diluted Ownership": "0.1519%"
+  },
+  "2013 SOGP": {
+    "Shares Authorized": "103,417,737"
+  },
+  "RSAs board approved": {
+    "Fully Diluted Ownership": "0.0000%"
+  },
+  "Options and RSUs issued and outstanding": {
+    "Common Stock Equivalent": "48,465,266",
+    "Fully Diluted Shares": "48,465,266",
+    "Fully Diluted Ownership": "9.1828%"
+  },
+  "Shares available for issuance under the plan": {
+    "Common Stock Equivalent": "29,832,646",
+    "Fully Diluted Shares": "29,832,646",
+    "Fully Diluted Ownership": "5.6525%"
+  },
+  "Total fully diluted": {
+    "Fully Diluted Shares": "527,781,170",
+    "Fully Diluted Ownership": "100.0000%"
+  }
+}

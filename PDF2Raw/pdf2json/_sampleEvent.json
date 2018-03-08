@@ -1,0 +1,9 @@
+﻿{
+  "statusCode": 200,
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml,application/octet-stream;q=0.9,image/webp,*/*;q=0.8",
+    "Host": "s6n5lgthfj.execute-api.us-east-1.amazonaws.com"
+  },
+  "body": "Hello World"
+}
+  
